@@ -1,1 +1,1 @@
-<?php readfile("home.html");?>
+<?php readfile("home.html.html");?>
